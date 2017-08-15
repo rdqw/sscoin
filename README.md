@@ -1,28 +1,28 @@
-Dash Core staging tree 0.12.1
+Sscoin Core staging tree 0.12.1
 ===============================
 
-`master:` [![Build Status](https://travis-ci.org/dashpay/dash.svg?branch=master)](https://travis-ci.org/dashpay/dash) `v0.12.0.x:` [![Build Status](https://travis-ci.org/dashpay/dash.svg?branch=v0.12.0.x)](https://travis-ci.org/dashpay/dash/branches) `v0.12.1.x:` [![Build Status](https://travis-ci.org/dashpay/dash.svg?branch=v0.12.1.x)](https://travis-ci.org/dashpay/dash/branches)
+`master:` [![Build Status](https://travis-ci.org/rqdw/sscoin.svg?branch=master)](https://travis-ci.org/rqdw/sscoin) `v0.12.0.x:` [![Build Status](https://travis-ci.org/rqdw/sscoin.svg?branch=v0.12.0.x)](https://travis-ci.org/rqdw/sscoin/branches) `v0.12.1.x:` [![Build Status](https://travis-ci.org/rqdw/sscoin.svg?branch=v0.12.1.x)](https://travis-ci.org/rqdw/sscoin/branches)
 
-https://www.dash.org
+https://www.sscoin.org
 
 
-What is Dash?
+What is Sscoin?
 ----------------
 
-Dash is an experimental new digital currency that enables anonymous, instant
-payments to anyone, anywhere in the world. Dash uses peer-to-peer technology
+Sscoin is an experimental new digital currency that enables anonymous, instant
+payments to anyone, anywhere in the world. Sscoin uses peer-to-peer technology
 to operate with no central authority: managing transactions and issuing money
-are carried out collectively by the network. Dash Core is the name of the open
+are carried out collectively by the network. Sscoin Core is the name of the open
 source software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the Dash Core software, see https://www.dash.org/get-dash/.
+the Sscoin Core software, see https://www.sscoin.org/get-sscoin/.
 
 
 License
 -------
 
-Dash Core is released under the terms of the MIT license. See [COPYING](COPYING) for more
+Sscoin Core is released under the terms of the MIT license. See [COPYING](COPYING) for more
 information or see https://opensource.org/licenses/MIT.
 
 Development Process
@@ -30,7 +30,7 @@ Development Process
 
 The `master` branch is meant to be stable. Development is normally done in separate branches.
 [Tags](https://github.com/rdqw/sscoin/tags) are created to indicate new official,
-stable release versions of Dash Core.
+stable release versions of Sscoin Core.
 
 The contribution workflow is described in [CONTRIBUTING.md](CONTRIBUTING.md).
 
@@ -66,7 +66,7 @@ Translations
 ------------
 
 Changes to translations as well as new translations can be submitted to
-[Dash Core's Transifex page](https://www.transifex.com/projects/p/dash/).
+[Sscoin Core's Transifex page](https://www.transifex.com/projects/p/sscoin/).
 
 Translations are periodically pulled from Transifex and merged into the git repository. See the
 [translation process](doc/translation_process.md) for details on how this works.
@@ -74,4 +74,4 @@ Translations are periodically pulled from Transifex and merged into the git repo
 **Important**: We do not accept translation changes as GitHub pull requests because the next
 pull from Transifex would automatically overwrite them again.
 
-Translators should also follow the [forum](https://www.dash.org/forum/topic/dash-worldwide-collaboration.88/).
+Translators should also follow the [forum](https://www.sscoin.org/forum/topic/sscoin-worldwide-collaboration.88/).

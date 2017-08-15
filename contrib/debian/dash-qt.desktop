@@ -1,12 +1,12 @@
 [Desktop Entry]
 Encoding=UTF-8
-Name=Dash
-Comment=Dash P2P Cryptocurrency
-Comment[fr]=Dash, monnaie virtuelle cryptographique pair à pair
-Comment[tr]=Dash, eşten eşe kriptografik sanal para birimi
-Exec=dash-qt %u
+Name=Sscoin
+Comment=Sscoin P2P Cryptocurrency
+Comment[fr]=Sscoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Sscoin, eşten eşe kriptografik sanal para birimi
+Exec=sscoin-qt %u
 Terminal=false
 Type=Application
-Icon=dash128
-MimeType=x-scheme-handler/dash;
+Icon=sscoin128
+MimeType=x-scheme-handler/sscoin;
 Categories=Office;Finance;

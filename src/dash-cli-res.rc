@@ -16,14 +16,14 @@ BEGIN
     BEGIN
         BLOCK "040904E4" // U.S. English - multilingual (hex)
         BEGIN
-            VALUE "CompanyName",        "Dash"
-            VALUE "FileDescription",    "dash-cli (JSON-RPC client for Dash Core)"
+            VALUE "CompanyName",        "Sscoin"
+            VALUE "FileDescription",    "sscoin-cli (JSON-RPC client for Sscoin Core)"
             VALUE "FileVersion",        VER_FILEVERSION_STR
-            VALUE "InternalName",       "dash-cli"
+            VALUE "InternalName",       "sscoin-cli"
             VALUE "LegalCopyright",     COPYRIGHT_STR
             VALUE "LegalTrademarks1",   "Distributed under the MIT software license, see the accompanying file COPYING or http://www.opensource.org/licenses/mit-license.php."
-            VALUE "OriginalFilename",   "dash-cli.exe"
-            VALUE "ProductName",        "dash-cli"
+            VALUE "OriginalFilename",   "sscoin-cli.exe"
+            VALUE "ProductName",        "sscoin-cli"
             VALUE "ProductVersion",     VER_PRODUCTVERSION_STR
         END
     END

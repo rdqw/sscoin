@@ -9,8 +9,8 @@
 #include <vector>
 
 /**
- * CBaseChainParams defines the base parameters (shared between dash-cli and dashd)
- * of a given instance of the Dash system.
+ * CBaseChainParams defines the base parameters (shared between sscoin-cli and sscoind)
+ * of a given instance of the Sscoin system.
  */
 class CBaseChainParams
 {

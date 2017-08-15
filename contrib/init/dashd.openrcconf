@@ -1,25 +1,25 @@
-# /etc/conf.d/dashd: config file for /etc/init.d/dashd
+# /etc/conf.d/sscoind: config file for /etc/init.d/sscoind
 
 # Config file location
-#BITCOIND_CONFIGFILE="/etc/dashcore/dash.conf"
+#BITCOIND_CONFIGFILE="/etc/sscoincore/sscoin.conf"
 
 # What directory to write pidfile to?  (created and owned by $BITCOIND_USER)
-#BITCOIND_PIDDIR="/var/run/dashd"
+#BITCOIND_PIDDIR="/var/run/sscoind"
 
 # What filename to give the pidfile
-#BITCOIND_PIDFILE="${BITCOIND_PIDDIR}/dashd.pid"
+#BITCOIND_PIDFILE="${BITCOIND_PIDDIR}/sscoind.pid"
 
-# Where to write dashd data (be mindful that the blockchain is large)
-#BITCOIND_DATADIR="/var/lib/dashd"
+# Where to write sscoind data (be mindful that the blockchain is large)
+#BITCOIND_DATADIR="/var/lib/sscoind"
 
-# User and group to own dashd process
-#BITCOIND_USER="dashcore"
-#BITCOIND_GROUP="dashcore"
+# User and group to own sscoind process
+#BITCOIND_USER="sscoincore"
+#BITCOIND_GROUP="sscoincore"
 
-# Path to dashd executable
-#BITCOIND_BIN="/usr/bin/dashd"
+# Path to sscoind executable
+#BITCOIND_BIN="/usr/bin/sscoind"
 
-# Nice value to run dashd under
+# Nice value to run sscoind under
 #BITCOIND_NICE=0
 
 # Additional options (avoid -conf and -datadir, use flags above)
